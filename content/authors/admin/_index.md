@@ -21,10 +21,10 @@ organizations:
 bio: I am a PhD student in economics. It does not mean that the only thing I care about is money, I care about  a lot of things that non-economists care about. I just see them in a unique economical way. I am also a Chinese, which is not to say I only care about China, I am just born this way.
 
 interests:
+- Behavior Economics
 - Experimental Economics
-- Natural Resource Economics
 - Applied Econometrics
-- Social Network
+- Sustainable Agriculture
 
 education:
   courses:
@@ -37,7 +37,7 @@ education:
   - course: BS in Public Administration
     institution: South China University of Technology
     year: 2013
-  - course: BS in Finance
+  - course: BS in Economics and Finance
     institution: South China University of Technology
     year: 2013
 

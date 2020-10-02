@@ -35,7 +35,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_details: '/publication/water_management_practices/'
+url_details: '/publication/social_relation_land/'
 #url_video: '#'
 url_pdf: "/files/research/social_relation_land/liu_et_al_sustainability_2020.pdf"
 #url_code: '#'
