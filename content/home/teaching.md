@@ -47,22 +47,25 @@ subtitle = ""
 
 
 +++
-I have been the teaching assistant for the following courses:
 
-- AGEC2403 Quantitative Tools for Agribusiness (*Undergraduate course*, Instructor: Dr. Qiuqiong Huang, University of Arkansas, 2016 Fall and 2017 Fall) 
+### I have been the teaching assistant for the following courses:
+
+- **AGEC2403 Quantitative Tools for Agribusiness** (*Undergraduate course*, Instructor: Dr. Qiuqiong Huang, University of Arkansas, 2016 Fall and 2017 Fall) 
 <!-- [Syllabus](files/CV_Yefan_Nian.pdf)  -->
 
-- AEB3510 Quantitative Methods in Food and Resource Economics (*Undergraduate course*, Instructor: Dr. Luis Moisés Peña Lévano and Dr. Misti Sharp, University of Florida, 2018 Fall, 2019 Spring, and 2019 Fall) [Syllabus](files/teaching/AEB3510.pdf) 
+- **AEB3510 Quantitative Methods in Food and Resource Economics** (*Undergraduate course*, Instructor: Dr. Luis Moisés Peña Lévano and Dr. Misti Sharp, University of Florida, 2018 Fall, 2019 Spring, and 2019 Fall) [Syllabus](files/teaching/AEB3510.pdf) 
 
-- AEB4342 Agribusiness and Food Marketing and Management (*Undergraduate course*, Instructor: Dr. Bi Xiang, University of Florida, 2020 Spring) [Syllabus](files/teaching/AEB4342.pdf)
+- **AEB4342 Agribusiness and Food Marketing and Management** (*Undergraduate course*, Instructor: Dr. Bi Xiang, University of Florida, 2020 Spring) [Syllabus](files/teaching/AEB4342.pdf)
 
-I have been guest lecture for the following courses:
+- **AEB3341 Selling Strategically** (*Undergraduate course*, Instructor: Dr. John Lai, University of Florida, 2020 Fall and 2021 Spring) 
 
-- AEB3510 Quantitative Methods in Food and Resource Economics (*Undergraduate course*, University of Florida, 2018 Fall) 
+### I have been guest lecture for the following courses:
+
+- **AEB3510 Quantitative Methods in Food and Resource Economics** (*Undergraduate course*, University of Florida, 2018 Fall) 
 
   -- Topic: Using Excel Solver to solve optimization questions
 
-- AEB6553 Elements of Econometrics (*Graduate course*, University of Florida, 2020 Spring) 
+- **AEB6553 Elements of Econometrics** (*Graduate course*, University of Florida, 2020 Spring) 
 
   -- Topic: Hypothesis Testing
 

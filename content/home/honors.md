@@ -47,13 +47,15 @@ subtitle = ""
 
 
 +++
+Ofelia Anzola Memorial Scholarship, University of Florida, 2020 Spring
+
 - Phillip L. Herndon Endowment in Economics, University of Florida, 2020 Spring
 
 - Harold B. Clark Award, University of Florida, 2019 Spring
 
-- Certificate of Teaching with Technology, University of Flroida, 2019 Spring
+- Certificate of Teaching with Technology, University of Florida, 2019 Spring
 
-- Outstanding Grdaute Student, University of Arkansas, 2018 Spring
+- Outstanding Gradate Student, University of Arkansas, 2018 Spring
 
 - AAEA Travel Grant, 2019 Summer and 2017 Summer
 

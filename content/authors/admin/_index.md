@@ -21,7 +21,7 @@ organizations:
 bio: I am a PhD student in economics. It does not mean that the only thing I care about is money, I care about  a lot of things that non-economists care about. I just see them in a unique economical way. I am also a Chinese, which is not to say I only care about China, I am just born this way.
 
 interests:
-- Behavior Economics
+- Behavioral Economics
 - Experimental Economics
 - Applied Econometrics
 - Sustainable Agriculture

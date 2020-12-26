@@ -21,7 +21,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-year: 2020
+year: "2020"
 
 abstract: "An extensive literature has suggested that attribute non-attendance (ANA) behavior in the choice experiment (CE) may have a significant influence on respondents’ preferences and WTP estimates. This paper assesses how different types of stated ANA question approaches (serial or choice task ANA question approaches) in CEs may affect the internal and external validity of CEs using an online tomato CE survey. First, it examines whether there are differences in terms of respondents’ attitudes towards CEs and their choice processing strategies in conducting choice tasks when respondents face different types of stated ANA questions in CEs. Second, it examines how different types of stated ANA questions might affect the marginal WTP estimates. Third, it explores whether the two types of self-reported ANA questions provide accurate information on respondents’ ANA behavior. Results show that the choice task ANA question approach significantly increases the complexity of choice tasks. Respondents tend to spend more time conducting choice tasks after answering the stated ANA questions, but their decisions to choose the opt-out option is not likely to be affected by the presence of the stated ANA questions. The different stated ANA question approaches might also result in different marginal WTP estimates. Although both the serial and stated ANA questions cannot truly reveal respondents’ ANA behavior, the ANA behavior information gathered at the choice task level is closer to respondents’ true ANA behavior."
 
@@ -67,6 +67,8 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+
+
 ---
 
 <!-- {{% alert note %}}
@@ -75,3 +77,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 
 <!-- #Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
  -->
+
